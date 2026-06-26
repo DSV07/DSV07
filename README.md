@@ -53,6 +53,8 @@ Tenho conhecimentos em **JavaScript, Python, Node.js, React, HTML, CSS, SQL e My
 
 ### 💰 Plutus — Plataforma de Gestão Financeira
 
+![plutus](https://plutusfintech.asxdev.com.br/plutus.png)
+
 Sistema web voltado para **organização financeira pessoal e controle financeiro para pequenos negócios**, com foco em entradas, saídas, categorias, acompanhamento de gastos e visualização de dados financeiros.
 
 **Tecnologias:** React, Node.js, JavaScript, MySQL, APIs.
