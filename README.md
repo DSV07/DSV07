@@ -51,7 +51,7 @@ Tenho conhecimentos em **JavaScript, Python, Node.js, React, HTML, CSS, SQL e My
 
 ## 🧩 Projetos em destaque
 
-![plutus](https://plutusfintech.asxdev.com.br/plutus.png)
+[Plutus](https://plutusfintech.asxdev.com.br/plutus.png)
 
 ### [💰 Plutus — Plataforma de Gestão Financeira](https://plutusfintech.asxdev.com.br)
 
@@ -61,7 +61,9 @@ Sistema web voltado para **organização financeira pessoal e controle financeir
 
 ---
 
-### 📅 Vantage — Sistema de Agendamento
+![Vantage](https://i.imgur.com/XBti1nS.png)
+
+### [📅 Vantage — Sistema de Agendamento](https://vantage-elite.asxdev.com.br)
 
 Solução desenvolvida para **gestão de horários, serviços e clientes**, pensada principalmente para negócios locais como barbearias, salões e prestadores de serviço que precisam organizar sua agenda de forma simples e eficiente.
 
@@ -69,7 +71,9 @@ Solução desenvolvida para **gestão de horários, serviços e clientes**, pens
 
 ---
 
-### 💇‍♀️ Flowbraids — Agendamento para Trancistas
+![FlowBraids](https://flowbraids.onrender.com/logo.png)
+
+### [💇‍♀️ Flowbraids — Agendamento para Trancistas](https://flowbraids.onrender.com/)
 
 Sistema voltado para **profissionais de tranças**, permitindo organizar atendimentos, serviços, horários disponíveis e informações de clientes, com foco em praticidade e gestão profissional da agenda.
 
@@ -77,7 +81,9 @@ Sistema voltado para **profissionais de tranças**, permitindo organizar atendim
 
 ---
 
-### 📦 Stockin — Sistema de Controle de Estoque / ERP
+![Stockin](https://stockin.onrender.com/logoStockin.png)
+
+### [📦 Stockin — Sistema de Controle de Estoque / ERP](https://stockin.onrender.com)
 
 Sistema web desenvolvido para **controle de produtos, organização de registros e apoio à gestão operacional básica**, evoluindo de um controle de estoque para uma proposta de mini ERP para pequenos negócios.
 
