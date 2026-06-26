@@ -51,7 +51,7 @@ Tenho conhecimentos em **JavaScript, Python, Node.js, React, HTML, CSS, SQL e My
 
 ## 🧩 Projetos em destaque
 
-[Plutus](https://plutusfintech.asxdev.com.br/plutus.png)
+![Plutus](https://plutusfintech.asxdev.com.br/plutus.png)
 
 ### [💰 Plutus — Plataforma de Gestão Financeira](https://plutusfintech.asxdev.com.br)
 
@@ -90,8 +90,9 @@ Sistema web desenvolvido para **controle de produtos, organização de registros
 **Tecnologias:** React, Node.js, JavaScript, MySQL.
 
 ---
+![Summarizin](https://i.imgur.com/IZl0nBS.png)
 
-### 📝 Summarizin — Sistema de Resumos e Organização de Conteúdo
+### [📝 Summarizin — Sistema de Resumos e Organização de Conteúdo](https://summarizin-jbft.onrender.com/)
 
 Aplicação voltada para **resumir, organizar e estruturar conteúdos extensos**, como aulas, textos, documentos e materiais de estudo, facilitando a revisão e o acesso às informações principais.
 
