@@ -129,8 +129,8 @@ Projetos de estudo com consumo de APIs, lógica de back-end, estruturação de d
 ## 📫 Contato
 
 * 📧 E-mail: [gjoao5004@gmail.com](mailto:gjoao5004@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-gabriel-b33358300/]
-* 🌐 Portfólio: [asxdev.com.br]
+* 💼 LinkedIn: [Perfil](https://www.linkedin.com/in/jo%C3%A3o-gabriel-b33358300/)
+* 🌐 Portfólio: [ASX](asxdev.com.br)
 
 ---
 
