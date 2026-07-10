@@ -128,7 +128,7 @@ Projetos de estudo com consumo de APIs, lógica de back-end, estruturação de d
 
 * 📧 E-mail: [araujodeveloper.contato@gmail.com](mailto:araujodeveloper.contato@gmail.com)
 * 💼 LinkedIn: [Perfil](https://www.linkedin.com/in/jo%C3%A3o-gabriel-b33358300/)
-* 🌐 Portfólio: [ASX](https://https://araujodev.asxdev.com.br)
+* 🌐 Portfólio: [ASX](https://araujodev.asxdev.com.br)
 
 ---
 
