@@ -77,7 +77,7 @@ Sistema voltado para **profissionais de tranças**, permitindo organizar atendim
 
 ---
 
-![Stockin](https://stockin.onrender.com/logoStockin.png)
+![Stockin](https://systemstockin.onrender.com/logoStockin.png)
 
 ### [📦 Stockin — Sistema de Controle de Estoque / ERP](https://stockin.onrender.com)
 
