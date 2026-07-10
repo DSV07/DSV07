@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Gabriel Araújo da Silva
 
-Sou **Programador Júnior** em formação, com foco em **desenvolvimento web**, **sistemas full stack** e **soluções digitais para empresas**.
+Sou **Programador**, com foco em **desenvolvimento web**, **sistemas full stack** e **soluções digitais para empresas**.
 
 Tenho conhecimentos em **JavaScript, Python, Node.js, React, HTML, CSS, SQL e MySQL**, além de experiência com rotinas administrativas, organização de processos e suporte operacional. Busco evoluir constantemente como desenvolvedor, criando projetos práticos que resolvam problemas reais.
 
@@ -8,13 +8,9 @@ Tenho conhecimentos em **JavaScript, Python, Node.js, React, HTML, CSS, SQL e My
 
 ## 🚀 Sobre mim
 
-* 💻 Desenvolvedor Full Stack Júnior em evolução
+* 💻 Desenvolvedor Full Stack
 * 📍 Salvador, Bahia — Brasil
 * 🎓 Formação em Programação Full Stack pela Infinity School
-* 🏫 Cursando Superior de Tecnologia em Radiologia no IFBA
-* 🛠️ Técnico em Manutenção Automotiva pelo CEEP Newton Sucupira
-* 📊 Experiência com rotinas administrativas, planilhas, controle de informações e organização de processos
-* 🎯 Interesse em desenvolvimento web, sistemas internos, automação de processos e soluções para pequenos negócios
 
 ---
 
@@ -137,7 +133,7 @@ Projetos de estudo com consumo de APIs, lógica de back-end, estruturação de d
 
 ## 📫 Contato
 
-* 📧 E-mail: [gjoao5004@gmail.com](mailto:gjoao5004@gmail.com)
+* 📧 E-mail: [araujodeveloper.contato@gmail.com](mailto:araujodeveloper.contato@gmail.com)
 * 💼 LinkedIn: [Perfil](https://www.linkedin.com/in/jo%C3%A3o-gabriel-b33358300/)
 * 🌐 Portfólio: [ASX](asxdev.com.br)
 
