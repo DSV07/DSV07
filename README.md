@@ -112,13 +112,6 @@ Projetos de estudo com consumo de APIs, lógica de back-end, estruturação de d
 
 ---
 
-## 📊 GitHub Stats
-
-![João Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSV07\&show_icons=true\&theme=dark\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSV07\&layout=compact\&theme=dark\&hide_border=true)
-
----
 
 ## 📌 Atualmente estudando
 
